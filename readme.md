@@ -58,4 +58,11 @@ Through this project, I gained valuable experience in:
 ## Screenshots
 
 ![example](example.png)
+
+### [Coin Image Source](https://media.istockphoto.com/id/1384862752/vector/vector-canadian-coins-one-dollar-loonie-and-two-dollar-toonie.jpg?s=612x612&w=0&k=20&c=WwVYUkgAMHrrYYjJ5rt_Dp1pkXYpkmuM3Hm76s7YyKw=)
+
 ![example2](example2.png)
+
+## Credits
+
+Special thanks to [Lore So What](https://www.youtube.com/@loresowhat) on YouTube for the guidelines on how to build this dashboard!
